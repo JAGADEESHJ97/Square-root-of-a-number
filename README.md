@@ -27,7 +27,7 @@ Developed by: JAGADEESH J
 RegisterNumber: 212223110015
 ```
 ## Output:
-![Screenshot 2024-03-23 200623](https://github.com/JAGADEESHJ97/Square-root-of-a-number/assets/152129419/aac6afe2-62d7-4810-ba1d-a6e90ed1cfad)
+
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
